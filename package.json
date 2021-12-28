@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "version": "0.0.1",
+  "scripts": {
+    "json:server": "json-server router.js --watch db.json"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
