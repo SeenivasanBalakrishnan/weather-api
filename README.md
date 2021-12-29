@@ -7,7 +7,7 @@ Hi!  The API was created only for the **Weather Watch** assignment which is prov
 ### Get cities by keyword
 - we can search and get all the cities by the name which are maching with the keyword 
 
-Path 
+Query:
 ```
 baseURL/cities?name_like=${keywod}
 ```
@@ -36,7 +36,8 @@ Response:
 
 ### Get full reports by cityId and unit
 - we can get full weather report by the cityId and unit value
-Path 
+
+Query:
 ```
 baseURL/cities/${cityId}/report?_embed=${unit}
 ```
