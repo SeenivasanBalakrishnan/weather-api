@@ -1,6 +1,7 @@
 # Weather API
 
-Hi!  The Mock API was created for the **Weather Watch** assignment which is provided by React JS trainer. As per the assignment requirement, I have updated the mock data and structures. You can fetch the cities and weather reports details by passing the queries.
+Hi!
+The Mock API was created for the **Weather Watch** assignment which is provided by React JS trainer. As per the requirement, I have updated the mock data and structures. You can use this to fetch the mock cities and weather reports by passing the queries.
 
 Base API URL: https://my-json-server.typicode.com/SeenivasanBalakrishnan/weather-api/
 
