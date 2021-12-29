@@ -1,6 +1,6 @@
 # Weather API
 
-Hi!  The API was created only for the **Weather Watch** assignment which is provided by our React JS trainer. As per the assignment requirement, I have updated the mock data and those structures.
+Hi!  The API was created for the **Weather Watch** assignment which is provided by our React JS trainer. As per the assignment requirement, I have updated the mock data and structures. You can use this to fetch the cities and weather reports by passing the queries.
 
 ## Routes
 
