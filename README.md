@@ -1,15 +1,12 @@
 # Weather API
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-adrt5u)
-
-# Weather API
-
 Hi! This is the API created only for **Weather Watch** assignement which are provided by our React JS training. I have used some mock data and data structure to get the value as per our assignment requirement.
 
 ## Routes
 
 ### Get cities by keyword
 - we can search and get all the cities by the name which are maching with the keyword 
+
 Path 
 ```
 baseURL/cities/${cityId}
@@ -29,6 +26,7 @@ Examples:
 
 ### Get full reports by cityId and unit
 - we can get full weather report by the cityId and unit value
+
 Path 
 ```
 baseURL/cities/${cityId}/report?_embed=${unit}
