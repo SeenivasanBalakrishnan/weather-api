@@ -53,26 +53,24 @@ Response:
 ```json
 [
   {
-    "id": 2,
-    "cityId": 2,
-    "location": "Chengalpattu",
-    "conditions": "Partly Clouds",
-    "icon": "/images/weather_icon_partly_cloudy.svg",
-    "temp": 32,
-    "temp_max": 35,
-    "temp_min": 30,
-    "feels_like": 33,
-    "wind_speed": 2.5,
-    "wind_direction": 170,
-    "pressure": 842,
-    "humidity": 48,
-    "celsius": [
+    "id": 4,
+    "cityId": 4,
+    "location": "Bangalore",
+    "conditions": "Cloud Slight Rain",
+    "icon": "https://seenivasanbalakrishnan.github.io/images/weather_icon_cloud_slight_rain.svg",
+    "relative_icon": "/images/weather_icon_cloud_slight_rain.svg",
+    "feels_like": 23,
+    "wind_speed": 4.6,
+    "wind_direction": 130,
+    "pressure": 2150,
+    "humidity": 38,
+    "fahrenheit": [
       {
-        "id": 2,
-        "reportId": 2,
-        "temp": 32,
-        "temp_max": 35,
-        "temp_min": 30
+        "id": 4,
+        "reportId": 4,
+        "temp": 77,
+        "temp_max": 79,
+        "temp_min": 72
       }
     ]
   }
