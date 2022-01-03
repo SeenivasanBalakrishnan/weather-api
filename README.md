@@ -2,7 +2,7 @@
 # Weather API
 
 Hi!
-The Mock API was created for the **Weather Watch** assignment which is provided by the React JS trainer. As per the requirement, I have structured the mock data in the `db.json` file. By passing the queries, you can fetch the mock cities and weather reports as json format.
+The Mock API was created from *[json-server](https://github.com/typicode/json-server)** for the **Weather Watch** app assignment which is provided by the React JS trainer. As per the requirement, I have structured the mock data in the `db.json` file. And by passing the valuable queries, you can fetch the mock cities and weather reports as json format.
 
 ***Base API URL:*** https://my-json-server.typicode.com/SeenivasanBalakrishnan/weather-api/
 
@@ -76,5 +76,11 @@ Response:
   }
 ]
 ```
+
+### More Routes
+* To get all cities list - [baseURL/cities/](https://my-json-server.typicode.com/SeenivasanBalakrishnan/weather-api/cities)
+* To get single city by id - [baseURL/cities/:id](https://my-json-server.typicode.com/SeenivasanBalakrishnan/weather-api/cities/2) 
+* To get all reports - [baseURL/report/](https://my-json-server.typicode.com/SeenivasanBalakrishnan/weather-api/report) 
+* To get single report by id - [baseURL/report/:id](https://my-json-server.typicode.com/SeenivasanBalakrishnan/weather-api/report/4)
 
 For more queries refer https://github.com/typicode/json-server/blob/master/README.md
